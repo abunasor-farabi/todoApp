@@ -15,7 +15,6 @@ A full-stack task management application with JWT authentication, built with ASP
 - [Packages & Versions](#packages--versions)
   - [Backend (NuGet)](#backend-nuget)
   - [Frontend (npm)](#frontend-npm)
-- [License](#license)
 
 ## Tech Stack
 - **Backend:** ASP.NET Core 8 Web API, Entity Framework Core, JWT Authentication
@@ -174,5 +173,3 @@ If you prefer Microsoft SQL Server, follow these steps:
 | globals | ^17.12.0 |
 | vite | ^8.3.0 |
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
