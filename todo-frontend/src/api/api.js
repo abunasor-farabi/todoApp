@@ -2,7 +2,7 @@
 
 // Define the base URL of our .NET Web API.
 // IMPORTANT: Change the port number to match our running .NET API (check launchSetting.json).
-const BASE_URL = "http://localhost:5192/api";
+const BASE_URL = "http://localhost:5000/api";
 
 // A helper function to get the JWT token from the Local storage.
 // We will store the token in localStorege upon Successful Login.
